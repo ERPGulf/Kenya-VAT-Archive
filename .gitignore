@@ -3,7 +3,7 @@
 *.egg-info
 *.swp
 tags
-oman_vat/docs/current
+kenya_vat/docs/current
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

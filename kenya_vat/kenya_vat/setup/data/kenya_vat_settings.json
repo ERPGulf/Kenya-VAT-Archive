@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Sales Account",
+        "accounts": [
+            {
+                "title": "Standard rated Sales",
+                "item_tax_template": "Kenya VAT 16%",
+                "account": "VAT 16%"
+            },
+            {
+                "title": "Reduced rated Sales",
+                "item_tax_template": "Kenya VAT 8%",
+                "account": "VAT 8%"
+            },
+            {
+                "title": "Zero rated domestic sales",
+                "item_tax_template": "Kenya VAT Zero",
+                "account": "VAT Zero"
+            },
+            {
+                "title": "Exempted sales",
+                "item_tax_template": "Kenya VAT Exempted",
+                "account": "VAT Zero"
+            }
+        ]
+    },
+    {
+        "type": "Purchase Account",
+        "accounts": [
+            {
+                "title": "Standard rated purchases",
+                "item_tax_template": "Kenya Standard VAT 16%",
+                "account": "VAT 16%"
+            },
+            {
+                "title": "Reduced Rate purchases",
+                "item_tax_template": "Kenya Reduced VAT 8%",
+                "account": "VAT 8%"
+            },
+            {
+                "title": "Zero rated purchases",
+                "item_tax_template": "Kenya VAT Zero",
+                "account": "VAT Zero"
+            },
+            {
+                "title": "Exempted purchases",
+                "item_tax_template": "Kenya VAT Exempted",
+                "account": "VAT Zero"
+            }
+        ]
+    }
+]
